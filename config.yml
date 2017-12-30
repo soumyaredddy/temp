@@ -1,0 +1,9 @@
+Database:
+  host: 
+  username:
+  password: 
+  database: 
+Table:
+  logchat: true
+  logcommands: true
+  logplayer: true
